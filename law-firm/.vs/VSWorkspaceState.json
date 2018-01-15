@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules\\postcss-modules-scope",
+    "\\node_modules\\postcss-modules-scope\\node_modules",
+    "\\node_modules\\postcss-modules-scope\\node_modules\\postcss",
+    "\\node_modules\\postcss-modules-scope\\node_modules\\postcss\\lib",
+    "\\node_modules\\postcss-modules-values",
+    "\\node_modules\\postcss-modules-values\\node_modules",
+    "\\node_modules\\postcss-modules-values\\node_modules\\postcss",
+    "\\node_modules\\postcss-modules-values\\node_modules\\postcss\\lib"
+  ],
+  "PreviewInSolutionExplorer": true
+}

@@ -1,0 +1,23 @@
+.imgContainer{
+    float:left;
+}
+.btn{
+   margin-left: 1250px;
+   margin-top: 20px;
+   padding-left: 30px;
+   padding-right:30px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   color: white;
+   background-color: DodgerBlue;
+}
+.btn-btn{
+    margin-left: 835px;
+    margin-top: 0px;
+    padding-left: 30px;
+    padding-right:30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: DodgerBlue;
+ }
